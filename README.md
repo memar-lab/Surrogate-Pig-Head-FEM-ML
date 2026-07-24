@@ -751,10 +751,6 @@ Peak_Velocity_(rad/s)
 
 Do not enter peak acceleration in `krad/s2`.
 
-### The prediction seems inconsistent with MATLAB
-
-Do not ship or use the build until the Python output is checked against MATLAB reference outputs.
-
 ---
 
 ## Suggested citation text
