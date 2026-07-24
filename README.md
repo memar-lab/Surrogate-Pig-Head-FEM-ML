@@ -62,6 +62,8 @@ This platform provides two ways to run the FEM-ML surrogate model:
 
 The workflow is:
 
+![Workflow](Workflow.png)
+
 ```text
 User impact input
    ↓
