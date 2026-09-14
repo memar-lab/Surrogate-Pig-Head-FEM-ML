@@ -386,7 +386,7 @@ Supported model architectures:
 DNN
 Lasso
 Ridge
-Random Forest - Linear
+Random Forest - CART
 Random Forest - Curvature
 ```
 
@@ -485,7 +485,7 @@ Select Model Architecture:
 [1] DNN
 [2] Lasso
 [3] Ridge
-[4] Random Forest - Linear
+[4] Random Forest - CART
 [5] Random Forest - Curvature
 [Q] Quit
 
